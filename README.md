@@ -1,6 +1,8 @@
 ![](CTFd/static/img/m.png)
 ====
-
+网络攻防训练平台
+收集大量ctf题目
+it was edited by CTFd
 CTFd is a CTF in a can. Easily modifiable and has everything you need to run a jeopardy style CTF.
 
 Install:
