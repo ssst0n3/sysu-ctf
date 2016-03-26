@@ -11,5 +11,3 @@ Install:
 
 Live Demo:
 [https://ctf.a306.xyz:4001/](https://demo.ctfd.io/)
-
-Logo by [Laura Barbera](http://www.laurabb.com/)
